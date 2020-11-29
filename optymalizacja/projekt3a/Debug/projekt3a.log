@@ -1,0 +1,26 @@
+﻿  projekt3a.cpp
+e:\stopien2\optymalizacja\projekt3a\projekt3a\projekt3a.cpp(14): error C3861: 'time': identifier not found
+e:\stopien2\optymalizacja\projekt3a\projekt3a\projekt3a.cpp(14): error C3861: 'srand': identifier not found
+e:\stopien2\optymalizacja\projekt3a\projekt3a\projekt3a.cpp(113): error C2065: 'cout': undeclared identifier
+e:\stopien2\optymalizacja\projekt3a\projekt3a\projekt3a.cpp(115): error C2065: 'cout': undeclared identifier
+e:\stopien2\optymalizacja\projekt3a\projekt3a\projekt3a.cpp(115): error C2065: 'endl': undeclared identifier
+e:\stopien2\optymalizacja\projekt3a\projekt3a\projekt3a.cpp(149): error C3861: 'rand': identifier not found
+e:\stopien2\optymalizacja\projekt3a\projekt3a\projekt3a.cpp(150): error C3861: 'rand': identifier not found
+e:\stopien2\optymalizacja\projekt3a\projekt3a\projekt3a.cpp(217): error C3861: 'exp': identifier not found
+e:\stopien2\optymalizacja\projekt3a\projekt3a\projekt3a.cpp(218): error C3861: 'rand': identifier not found
+e:\stopien2\optymalizacja\projekt3a\projekt3a\projekt3a.cpp(231): error C2065: 'cout': undeclared identifier
+e:\stopien2\optymalizacja\projekt3a\projekt3a\projekt3a.cpp(231): error C2065: 'endl': undeclared identifier
+e:\stopien2\optymalizacja\projekt3a\projekt3a\projekt3a.cpp(233): error C2065: 'cout': undeclared identifier
+e:\stopien2\optymalizacja\projekt3a\projekt3a\projekt3a.cpp(233): error C2065: 'endl': undeclared identifier
+e:\stopien2\optymalizacja\projekt3a\projekt3a\projekt3a.cpp(239): error C2065: 'cout': undeclared identifier
+e:\stopien2\optymalizacja\projekt3a\projekt3a\projekt3a.cpp(241): error C2065: 'cout': undeclared identifier
+e:\stopien2\optymalizacja\projekt3a\projekt3a\projekt3a.cpp(241): error C2065: 'endl': undeclared identifier
+e:\stopien2\optymalizacja\projekt3a\projekt3a\projekt3a.cpp(244): error C3861: 'system': identifier not found
+e:\stopien2\optymalizacja\projekt3a\projekt3a\projekt3a.cpp(31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+e:\stopien2\optymalizacja\projekt3a\projekt3a\projekt3a.cpp(33): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+e:\stopien2\optymalizacja\projekt3a\projekt3a\projekt3a.cpp(34): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+e:\stopien2\optymalizacja\projekt3a\projekt3a\projekt3a.cpp(78): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
